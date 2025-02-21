@@ -19,9 +19,9 @@ This project helps you boost your career using AI! It can create resumes, write 
 
 ## How to Run It
 
-1.  Get the code: `git clone [repository URL]`
+1.  Get the code: `git clone https://github.com/shiwangi-07/ai-mentor-hub.git`
 2.  Install things: `npm install` or `yarn install`
-3.  Set up secrets: Create a `.env.local` file and add keys.  (I can give you an example)
+3.  Set up secrets: Create a `.env.local` file and add keys.
 4.  Start it up: `npm run dev` or `yarn dev`
 
 ## How to Use
